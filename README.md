@@ -134,3 +134,8 @@ This source code represents the foundation upon which the modern software indust
 ---
 
 *This document represents a crucial piece of computing history - the source code that helped launch the personal computer revolution and established Microsoft as a software industry leader.*
+
+## NOTICE
+
+File is converted by manual and Macro10-CA65 converter:
+https://github.com/yyl-20020115/Macro10_CA65_Converter.git
